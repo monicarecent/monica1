@@ -18,7 +18,7 @@ body
 #main-header h1
 {
 	margin:0px;
-	color:black;
+	color:#DC143C;
 	font-size:50px;
 
 }
@@ -78,7 +78,7 @@ body
 }
 
 
-#main-section .main-section-article:hover
+#main-section .main-section-article img:hover
 {
 	width:350px;
 	cursor:pointer;
